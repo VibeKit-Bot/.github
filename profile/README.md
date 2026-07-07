@@ -24,6 +24,7 @@ Describe what you want and an agent builds it, ships it to a live URL, and stays
 | [**templates**](https://github.com/VibeKit-Bot/templates) | The starter templates your first app can begin from |
 | [**vibekit-mcp**](https://github.com/VibeKit-Bot/vibekit-mcp) | MCP server — drive VibeKit from Claude Desktop, Cursor, or any MCP client ([npm](https://www.npmjs.com/package/vibekit-mcp)) |
 | [**vibekit-cli**](https://github.com/VibeKit-Bot/vibekit-cli) | CLI — build, deploy, and manage your apps from the terminal ([npm](https://www.npmjs.com/package/vibekit-cli)) |
+| [**vibekit-agent**](https://github.com/VibeKit-Bot/vibekit-agent) | Control your local machine / Claude Code from Telegram or the VibeKit app ([npm](https://www.npmjs.com/package/vibekit-agent)) |
 
 ## Try it
 
