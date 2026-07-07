@@ -21,9 +21,9 @@ Describe what you want and an agent builds it, ships it to a live URL, and stays
 
 | Repo | What it is |
 |------|------------|
-| [**templates**](https://github.com/vibekit-bot/templates) | The starter templates your first app can begin from |
-| [**vibekit-mcp**](https://github.com/vibekit-bot/vibekit-mcp) | MCP server — drive VibeKit from any MCP-compatible client |
-| [**skills-registry**](https://github.com/vibekit-bot/skills-registry) | Agent skills the platform can install into an app |
+| [**templates**](https://github.com/VibeKit-Bot/templates) | The starter templates your first app can begin from |
+
+We also publish the [**vibekit-mcp**](https://www.npmjs.com/package/vibekit-mcp) server on npm — drive VibeKit from any MCP-compatible client.
 
 ## Try it
 
