@@ -21,7 +21,7 @@ Describe what you want and an agent builds it, ships it to a live URL, and stays
 
 | Repo | What it is |
 |------|------------|
-| [**wysiati**](https://github.com/VibeKit-Bot/wysiati) | Stops AI agents from saying "done" when it isn't (the deploy hadn't finished, the test had failed). On our production traffic, replies needing a correction fell from 25% to 15%. One file, plus a drop-in Claude Code hook |
+| [**wysiati**](https://github.com/VibeKit-Bot/wysiati) | Stops AI agents from saying "done" when it isn't (the deploy hadn't finished, the test had failed). On our production traffic: 40% fewer false claims, for about 1% more tokens and 1% more time. One file, plus a drop-in Claude Code hook |
 | [**templates**](https://github.com/VibeKit-Bot/templates) | The starter templates your first app can begin from |
 | [**vibekit-mcp**](https://github.com/VibeKit-Bot/vibekit-mcp) | MCP server: drive VibeKit from Claude Desktop, Cursor, or any MCP client ([npm](https://www.npmjs.com/package/vibekit-mcp)) |
 | [**vibekit-cli**](https://github.com/VibeKit-Bot/vibekit-cli) | CLI: build, deploy, and manage your apps from the terminal ([npm](https://www.npmjs.com/package/vibekit-cli)) |
